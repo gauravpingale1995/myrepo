@@ -1,0 +1,4 @@
+My fathers name is Anand
+Select * from employees where salary>100000;
+
+67
